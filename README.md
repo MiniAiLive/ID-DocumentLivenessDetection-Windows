@@ -15,7 +15,8 @@ Try it out today!
 >
 > SDK is fully on-premise, processing all happens on hosting server and no data leaves server...
 
-<br></br>
+
+### Please [Contact US](https://www.miniai.live/contact/) for testing on your mobile phone.
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-IDCardRecognition/assets/153516004/9617f437-ee9b-4638-89e9-9c8ea746315c" alt="Test4" width="200" />
