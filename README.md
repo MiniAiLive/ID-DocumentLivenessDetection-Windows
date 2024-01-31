@@ -13,7 +13,11 @@ Try it out today!
 
 > **Note**
 >
-> SDK is fully on-premise, processing all happens on hosting server and no data leaves server...
+> - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server...
+>
+> - 10,000+ document templates covering IDs issued in 200+ countries and territories
+>
+> - Support of 100+ languages and special characters via sophisticated neural networks
 
 
 ### Please [Contact US](https://www.miniai.live/contact/) for testing on your mobile phone.
