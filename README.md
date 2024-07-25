@@ -41,7 +41,7 @@ Try it out today!
 
    Run the installer and follow the on-screen instructions to complete the installation.
    <div align="center">
-      <img src=https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/437907e0-9865-4752-aa46-5c99379d8d82 alt="install">
+      <img src=https://github.com/user-attachments/assets/f50289a4-94de-49e2-b6a7-699f5e8f41d7 alt="install">
    </div>
 
 3. **Request License and Update:**
@@ -52,17 +52,17 @@ Try it out today!
 
    Open it, generate a license request file, and send it to us via email or WhatsApp. We will send the license based on your Unique Request file, then you can upload the license file to allow to use. Refer the below images.
    <div align="center">
-      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/88c38efb-c599-4a79-8070-5524a8a60c7b" width="300" />
-      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/a7f7d7d4-b711-4183-851b-20cf873a02e0" width="300" />
-      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/f841cb29-4b34-4653-8bf4-e682e394dc1b" width="300" />
-      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/5a0fe2d9-a12b-40c7-b835-9d8e19d31f8b" width="300" />
+      <img src="https://github.com/user-attachments/assets/bb44d95c-8627-459a-9030-a5ea853b2112" width="300" />
+      <img src="https://github.com/user-attachments/assets/f7d56833-cf2a-4199-895a-73df30062cbc" width="300" />
+      <img src="https://github.com/user-attachments/assets/1fe95038-79e6-4bf7-b0c9-5002e6b540e9" width="300" />
+      <img src="https://github.com/user-attachments/assets/d0cd7fb6-670e-42b6-8dcf-e32015b96b12" width="300" />
    </div>
 
 4. **Verify Installation:**
 
    After installation, verify that the On-premise Server is correctly installed by checking the task manager:
    <div align="center">
-      <img src="https://github.com/MiniAiLive/ID-DocumentRecognition-Windows/assets/127708602/b1ffcdba-37f9-4f41-bb43-70b836b241f5" width="300" />
+      <img src="https://github.com/user-attachments/assets/2a0dea15-8c8b-4fd1-9de2-3be6fec2fc1a" width="300" />
    </div>
 
 ## API Details
