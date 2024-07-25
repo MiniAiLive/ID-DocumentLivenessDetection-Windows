@@ -78,7 +78,7 @@ Try it out today!
 - **Method:** `POST`
 - **Form Data:**
   - `image`: The image file (PNG, JPG, etc.) to be analyzed. This should be provided as a file upload.
-<img width="1049" alt="Screenshot 2024-07-16 at 5 12 01 AM" src="https://github.com/user-attachments/assets/fa954d58-d623-4db3-8a65-1df2d5c28baf">
+<img width="1049" alt="Screenshot 2024-07-16 at 5 12 01 AM" src="https://github.com/user-attachments/assets/d8c35a5a-3556-4975-b457-a3e601a7d730">
 
 - **URL:** `http://127.0.0.1:8093/api/check_id_liveness_base64`
 - **Method:** `POST`
@@ -87,15 +87,15 @@ Try it out today!
     {
        "image": "--base64 image data here--"
     }
-<img width="1049" alt="Screenshot 2024-07-16 at 5 11 34 AM" src="https://github.com/user-attachments/assets/fa6f5e12-0abc-4e5f-a078-f541e3c546a7">
+<img width="1049" alt="Screenshot 2024-07-16 at 5 11 34 AM" src="https://github.com/user-attachments/assets/6621a288-6bcf-4703-bba2-60c35c05fe84">
 
 ### Response
 
 The API returns a JSON object with the recognized details from the ID document. Here is an example response:
    <div align="center">
-      <img src="https://github.com/user-attachments/assets/fa954d58-d623-4db3-8a65-1df2d5c28baf" />
+      <img src="https://github.com/user-attachments/assets/e1c03a1b-d29a-495c-891a-26cc48a0a481" />
    </div>
-   
+
 ## Gradio Demo
 
 We have included a Gradio demo to showcase the capabilities of our ID Document Liveness Detection SDK. Gradio is a Python library that allows you to quickly create user interfaces for machine learning models.
@@ -117,7 +117,7 @@ We have included a Gradio demo to showcase the capabilities of our ID Document L
    ```
 ## Python Test API Example
 
-To help you get started with using the API, here is a comprehensive example of how to interact with the ID Document Recognition API using Python. You can use API with another language you want to use like C++, C#, Ruby, Java, Javascript, and more
+To help you get started with using the API, here is a comprehensive example of how to interact with the ID Document Liveness Detection API using Python. You can use API with another language you want to use like C++, C#, Ruby, Java, Javascript, and more
 
 ### Prerequisites
 
