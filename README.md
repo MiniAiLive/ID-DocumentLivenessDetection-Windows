@@ -91,7 +91,7 @@ Try it out today!
 
 ### Response
 
-The API returns a JSON object with the recognized details from the ID document. Here is an example response:
+The API returns a JSON object with the ID document liveness detection details. Here is an example response:
    <div align="center">
       <img src="https://github.com/user-attachments/assets/e1c03a1b-d29a-495c-891a-26cc48a0a481" />
    </div>
