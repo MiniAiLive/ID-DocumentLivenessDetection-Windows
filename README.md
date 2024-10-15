@@ -20,7 +20,7 @@ Try it out today!
 - [Gradio Demo](#gradio-demo)
 - [Python Test API Example](#python-test-api-example)
 
-## IDSDK Installation Guide
+## ID-LivenessSDK Installation Guide
 
 ### Prerequisites
 
@@ -65,7 +65,7 @@ Try it out today!
       <img src="https://github.com/user-attachments/assets/2a0dea15-8c8b-4fd1-9de2-3be6fec2fc1a" width="300" />
    </div>
 
-## IDSDK API Details
+## ID-LivenessSDK API Details
 
 ### Endpoint
 
