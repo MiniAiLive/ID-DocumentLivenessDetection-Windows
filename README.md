@@ -107,7 +107,7 @@ We have included a Gradio demo to showcase the capabilities of our ID Document L
    First, you need to install Gradio. You can do this using pip:
 
    ```sh
-   git clone https://github.com/MiniAiLive/ID-Document-LivenessDetection-Windows-SDK.git
+   git clone https://github.com/MiniAiLive/ID-DocumentLivenessDetection-Windows-SDK.git
    pip install -r requirement.txt
    cd gradio
    ```
